@@ -1,0 +1,19 @@
+As licenças de uso dos badges das marcas da Google, Apple e Windows Phone estão nos links correspondentes desde que respeitadas
+as regras dispostas e com resoluções correspondentes as sitadas no site.
+http://msdn.microsoft.com/en-us/library/windows/apps/jj670536.aspx 
+http://developer.android.com/distribute/tools/promote/badges.html
+https://developer.apple.com/app-store/marketing/guidelines/br/#downloadOnAppstore 
+---------------------------------------------------------------------------------------------------------------------------------
+Lincença das imagens do produto Iphone 5S são fornecidas pelo Justinmind. Que é um programa livre.
+Justinmind Prototyper Free
+
+Version 5.6.1
+
+Copyright © 2008-2013 Justinmind S.L.
+All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------
+A licença do template está no código.
+
+---------------------------------------------------------------------------------------------------------------------------------
+Licença da imagem banner_bg.jpg 
+Licença : Atribuição Não-comercial Alguns direitos reservados por Carolina de Andrade
